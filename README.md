@@ -12,3 +12,13 @@ require("Boxes.lua")
 
 然后你就可以调用二次封装api了
 
+Api文档
+
+EN:
+
+https://baixinsuper.github.io/posts/BoxesApiEn/
+
+中文 ：
+
+https://baixinsuper.github.io/posts/BoxesApiCn/
+
