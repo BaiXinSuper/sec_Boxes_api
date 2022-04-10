@@ -7,7 +7,7 @@
 在你的lua文件头加上这一行代码
 
 ```lua
-require("Boxes.lua")
+require("Boxes")
 ```
 
 然后你就可以调用二次封装api了
